@@ -1,0 +1,4 @@
+# KADaP Built-in 이미지(xiilab/astrago:pytorch-*-cuda*)에는 아래가 이미 포함되어 있습니다.
+# 별도 설치 없이 실행되는지 먼저 확인하고, 없을 때만 설치하세요.
+numpy>=1.24
+# torch  # Built-in 이미지에 포함. 미포함 환경에서만 별도 설치
